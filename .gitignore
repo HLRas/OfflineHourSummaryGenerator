@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Generated reports and their inputs
+Offline_Hours_*.md
+Offline_Hours_*.html
+Offline_Hours_*.pdf
+*.csv
+
+# Windows / OneDrive
+Thumbs.db
+desktop.ini
