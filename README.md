@@ -10,8 +10,7 @@ Turns an Outlook calendar CSV export into the monthly **Offline Hours Report**
 File -> Open & Export -> Import/Export -> Export to a file -> Comma Seperated Values
 -> Calendar -> Select save location -> Finish -> Select date range (1st to last day of relevant month)
 
-Set the date range to cover the **whole month**. Make sure you export the real
-calendar, not an *Availability only* view — that strips every event title.
+Set the date range to cover the **whole month**.
 
 **2. Run it**
 
