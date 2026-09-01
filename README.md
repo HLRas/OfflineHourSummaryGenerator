@@ -5,7 +5,7 @@ Turns an Outlook calendar CSV export into the monthly **Offline Hours Report**
 
 ## Every month, three steps
 
-**1. Export the calendar from Outlook**
+**1. Export the calendar from Outlook (classic)**
 
 File -> Open & Export -> Import/Export -> Export to a file -> Comma Seperated Values
 -> Calendar -> Select save location -> Finish -> Select date range (1st to last day of relevant month)
